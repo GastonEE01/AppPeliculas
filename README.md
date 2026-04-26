@@ -1,16 +1,33 @@
-# React + Vite
+App de Peliculas
+Aplicación web desarrollada con React que permite gestionar una lista de películas, agregar favoritas y persistir la información en el navegador.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deploy(Vercel)
+https://app-peliculas-three.vercel.app/
+  
+Funcionalidades:
 
-Currently, two official plugins are available:
+* Agregar nuevas películas
+* Eliminar películas
+* Agregar a favoritos
+* Evitar duplicados en favoritos
+* Buscar películas por nombre
+*  Modo oscuro / claro
+*  Persistencia con localStorage
+*  Navegación entre páginas (Películas / Favoritos)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Tecnologías: 
 
-## React Compiler
+* React
+* React Router DOM
+* JavaScript
+* CSS
+* Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Mejoras futuras:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Mejorar diseño UI/UX
+*  Eliminar favoritos
+*  Crear componentes reutilizables (Button, Input, etc.)
+*  Conectar con backend y base de datos
+*  Filtros por categoría
+  
