@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\controllers\\testdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\testdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\apppeliculas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\apppeliculas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BFBC90-604F-4D39-BDB4-E102046CFEC7}|..\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BFBC90-604F-4D39-BDB4-E102046CFEC7}|..\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BFBC90-604F-4D39-BDB4-E102046CFEC7}|..\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\apppeliculas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93E5AA7-6673-470A-93B1-E154A9F4D516}|..\\AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\apppeliculas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EF40F8-DD75-4E7B-89F8-E21B256D062C}|AppPeliculas.Test\\AppPeliculas.Test.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EF40F8-DD75-4E7B-89F8-E21B256D062C}|AppPeliculas.Test\\AppPeliculas.Test.csproj|solutionrelative:apppeliculas.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\apppeliculas.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|solutionrelative:apppeliculas.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93E5AA7-6673-470A-93B1-E154A9F4D516}|..\\AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\appsettings.Development.json*",
+              "RelativeToolTip": "AppPeliculas.API\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T01:56:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDbController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Controllers\\TestDbController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\TestDbController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Controllers\\TestDbController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\TestDbController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:09:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppPeliculas.API",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\AppPeliculas.API.csproj",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\AppPeliculas.API.csproj",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\AppPeliculas.API.csproj",
+              "RelativeToolTip": "AppPeliculas.API\\AppPeliculas.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T23:54:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:48:03.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\appsettings.json*",
+              "RelativeToolTip": "AppPeliculas.API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T23:24:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\WeatherForecast.cs",
+              "RelativeToolTip": "AppPeliculas.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:12:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:09:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Program.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Program.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.API\\Program.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:54:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppPeliculas.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "RelativeToolTip": "..\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T21:41:38.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppPeliculas.Application",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\AppPeliculas.Application.csproj",
+              "RelativeDocumentMoniker": "..\\AppPeliculas.Application\\AppPeliculas.Application.csproj",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\AppPeliculas.Application.csproj",
+              "RelativeToolTip": "..\\AppPeliculas.Application\\AppPeliculas.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T21:35:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Test\\Class1.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Test\\Class1.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Test\\Class1.cs",
+              "RelativeToolTip": "AppPeliculas.Test\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:35:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Domain\\Class1.cs",
+              "RelativeToolTip": "AppPeliculas.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:34:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AppPeliculas.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\AppPeliculas.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:34:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AppPeliculas.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Class1.cs",
+              "RelativeToolTip": "..\\AppPeliculas.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:33:50.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\bin\Debug\net8.0\AppPeliculas.Domain.deps.json
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\bin\Debug\net8.0\AppPeliculas.Domain.dll
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\bin\Debug\net8.0\AppPeliculas.Domain.pdb
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.AssemblyInfo.cs
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.sourcelink.json
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.dll
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\refint\AppPeliculas.Domain.dll
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\AppPeliculas.Domain.pdb
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.Domain\obj\Debug\net8.0\ref\AppPeliculas.Domain.dll

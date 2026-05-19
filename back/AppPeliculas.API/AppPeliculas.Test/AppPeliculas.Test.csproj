@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AppPeliculas.Application\AppPeliculas.Application.csproj" />
+    <ProjectReference Include="..\..\AppPeliculas.Infrastructure\AppPeliculas.Infrastructure.csproj" />
+    <ProjectReference Include="..\AppPeliculas.API\AppPeliculas.API.csproj" />
+    <ProjectReference Include="..\AppPeliculas.Domain\AppPeliculas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

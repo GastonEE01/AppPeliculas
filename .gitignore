@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Bloquear configuraciones locales con contraseñas
+appsettings.Development.json
