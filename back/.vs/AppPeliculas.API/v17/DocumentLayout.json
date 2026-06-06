@@ -1,0 +1,820 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\movieratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\movieratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\useraddmovieratingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\useraddmovieratingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.domain\\entities\\movierating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|solutionrelative:apppeliculas.domain\\entities\\movierating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\repositories\\movieratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\repositories\\movieratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\imovieratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\imovieratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\imovieirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\imovieirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\favoritemoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\favoritemoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\addfavoritemovieusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\addfavoritemovieusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\getfavoritemovieuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\getfavoritemovieuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\movierating\\createmovieratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\movierating\\createmovieratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\migrations\\20260606184324_addmovieratingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\migrations\\20260606184324_addmovieratingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|solutionrelative:apppeliculas.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|solutionrelative:apppeliculas.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.domain\\entities\\favoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942D26C-D0D5-48DD-8D33-AF4E0E2A2C11}|AppPeliculas.Domain\\AppPeliculas.Domain.csproj|solutionrelative:apppeliculas.domain\\entities\\favoritemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\repositories\\favoritemovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\repositories\\favoritemovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\deletefavoritemovieuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\deletefavoritemovieuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\ifavoritemovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\ifavoritemovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\favoritemovie\\favoritemovieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\favoritemovie\\favoritemovieresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\getmoviesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\getmoviesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\favoritemovie\\favoritemovieuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\favoritemovie\\favoritemovieuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\favoritemovie\\getfavoriteuserdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\favoritemovie\\getfavoriteuserdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\getmovierecommendationsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\getmovierecommendationsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\usecase\\recomendermoviesuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\usecase\\recomendermoviesuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\recomendation\\recomendationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\recomendation\\recomendationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\dotnet-tools.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\dotnet-tools.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\service\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\service\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.infrastructure\\apppeliculas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CBE8ECC-DF1B-E837-20D4-0A193C124F8E}|AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj|solutionrelative:apppeliculas.infrastructure\\apppeliculas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\user\\userdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\user\\userdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.application\\dtos\\user\\userdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D30DDB-C1A6-E7CF-18ED-9D458CE340D8}|AppPeliculas.Application\\AppPeliculas.Application.csproj|solutionrelative:apppeliculas.application\\dtos\\user\\userdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFavoriteMovieUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\AddFavoriteMovieUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\AddFavoriteMovieUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\AddFavoriteMovieUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\AddFavoriteMovieUseCase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T19:28:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateMovieRatingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\MovieRating\\CreateMovieRatingRequest.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\MovieRating\\CreateMovieRatingRequest.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\MovieRating\\CreateMovieRatingRequest.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\MovieRating\\CreateMovieRatingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T19:27:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\MovieRatingRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Repositories\\MovieRatingRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\MovieRatingRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Repositories\\MovieRatingRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:55:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IMovieRatingRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IMovieRatingRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IMovieRatingRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IMovieRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:49:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAddMovieRatingUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\UserAddMovieRatingUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\UserAddMovieRatingUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\UserAddMovieRatingUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\UserAddMovieRatingUseCase.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:49:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieRatingController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\MovieRatingController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\MovieRatingController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\MovieRatingController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\MovieRatingController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:45:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260606184324_AddMovieRatingTable.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Migrations\\20260606184324_AddMovieRatingTable.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Migrations\\20260606184324_AddMovieRatingTable.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Migrations\\20260606184324_AddMovieRatingTable.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Migrations\\20260606184324_AddMovieRatingTable.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:43:27.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:27:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRating.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\MovieRating.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Domain\\Entities\\MovieRating.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\MovieRating.cs",
+              "RelativeToolTip": "AppPeliculas.Domain\\Entities\\MovieRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:24:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FavoriteMovieResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieResponseDto.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieResponseDto.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieResponseDto.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:28:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteFavoriteMovieUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\DeleteFavoriteMovieUserUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\DeleteFavoriteMovieUserUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\DeleteFavoriteMovieUserUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\DeleteFavoriteMovieUserUseCase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T23:44:38.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FavoriteMovie.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\FavoriteMovie.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Domain\\Entities\\FavoriteMovie.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\FavoriteMovie.cs",
+              "RelativeToolTip": "AppPeliculas.Domain\\Entities\\FavoriteMovie.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:58:43.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FavoriteMovieUserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieUserResponseDto.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieUserResponseDto.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieUserResponseDto.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\FavoriteMovieUserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:57:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IMovieIRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IMovieIRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IMovieIRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IMovieIRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:52:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IFavoriteMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IFavoriteMovieRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IFavoriteMovieRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IFavoriteMovieRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IFavoriteMovieRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:35:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetFavoriteMovieUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetFavoriteMovieUserUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\GetFavoriteMovieUserUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetFavoriteMovieUserUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\GetFavoriteMovieUserUseCase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:00:48.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetFavoriteUserDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\GetFavoriteUserDtoRequest.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\GetFavoriteUserDtoRequest.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\FavoriteMovie\\GetFavoriteUserDtoRequest.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\FavoriteMovie\\GetFavoriteUserDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T20:58:35.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FavoriteMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\FavoriteMovieRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Repositories\\FavoriteMovieRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\FavoriteMovieRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Repositories\\FavoriteMovieRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:56:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RecomenderMoviesUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\RecomenderMoviesUserUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\RecomenderMoviesUserUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\RecomenderMoviesUserUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\RecomenderMoviesUserUseCase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:02:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\RecommendationController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:56:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAIService.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IAIService.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IAIService.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IAIService.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IAIService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:45:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\AIService.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Service\\AIService.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\AIService.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Service\\AIService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwE8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:04:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RecomendationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\Recomendation\\RecomendationRequestDto.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\Recomendation\\RecomendationRequestDto.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\Recomendation\\RecomendationRequestDto.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\Recomendation\\RecomendationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:58:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetMovieRecommendationsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetMovieRecommendationsUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\GetMovieRecommendationsUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetMovieRecommendationsUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\GetMovieRecommendationsUseCase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:46:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:01:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\CreateUserUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\CreateUserUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\CreateUserUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\CreateUserUseCase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:23:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetMoviesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetMoviesUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\GetMoviesUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\GetMoviesUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\GetMoviesUseCase.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:09:58.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\FavoriteMovieController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\FavoriteMovieController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\FavoriteMovieController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\FavoriteMovieController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAArwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:39:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Program.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Program.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Program.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIAwwEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:58:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.json",
+              "RelativeToolTip": "AppPeliculas.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T18:48:34.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:58:27.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T22:53:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AppPeliculas.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:41:26.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:20:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\TokenService.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:56:43.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T22:59:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppPeliculas.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\AppPeliculas.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T23:23:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dotnet-tools.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\dotnet-tools.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\dotnet-tools.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\dotnet-tools.json",
+              "RelativeToolTip": "AppPeliculas.API\\dotnet-tools.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T23:29:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\PasswordService.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Service\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Service\\PasswordService.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Service\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:23:26.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\Interfaces\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\Interfaces\\IPasswordService.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\Interfaces\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:00:29.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "AppPeliculas.Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:00:40.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "AppPeliculas.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:13:03.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\LoginUseCase.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\UseCase\\LoginUseCase.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\UseCase\\LoginUseCase.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\UseCase\\LoginUseCase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:12:24.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "AppPeliculas.API\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:43:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\User\\UserDtoRequest.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\User\\UserDtoRequest.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\User\\UserDtoRequest.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\User\\UserDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:25:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\User\\UserDtoResponse.cs",
+              "RelativeDocumentMoniker": "AppPeliculas.Application\\DTOs\\User\\UserDtoResponse.cs",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Application\\DTOs\\User\\UserDtoResponse.cs",
+              "RelativeToolTip": "AppPeliculas.Application\\DTOs\\User\\UserDtoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:25:19.127Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
