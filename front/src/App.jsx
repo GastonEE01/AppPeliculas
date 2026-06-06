@@ -144,7 +144,8 @@ const handleSearch = (e) => {
      
     {/* RUTAS */}
       <Routes>
-         <Route path="/login" element={<LoginPage /*movies={filteredMovies} addMovie= {addMovie} deleteMovie= {deleteMovie} addFavorite = {addFavorite} favorites= {favorites} handleSearch = {handleSearch} searchText = {searchText}*//>}></Route>
+        <Route path="/" element={<Navigate to="/login" replace />} />
+        <Route path="/login" element={<LoginPage /*movies={filteredMovies} addMovie= {addMovie} deleteMovie= {deleteMovie} addFavorite = {addFavorite} favorites= {favorites} handleSearch = {handleSearch} searchText = {searchText}*//>}></Route>
         <Route path="/register" element={<RegisterPage /*movies={filteredMovies} addMovie= {addMovie} deleteMovie= {deleteMovie} addFavorite = {addFavorite} favorites= {favorites} handleSearch = {handleSearch} searchText = {searchText}*//>}></Route>
         
         <Route path="/movies" element={
