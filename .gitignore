@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+.vs/
+bin/
+obj/
 # Bloquear configuraciones locales con contraseñas
 appsettings.Development.json

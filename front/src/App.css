@@ -4,54 +4,15 @@
   box-sizing: border-box;
 }
 
-header{
-  background-color: red;
-  text-align: center;
-}
 
- Link{
-  background-color: rgb(240, 100, 100);
-  color: rgb(216, 22, 22);
-  width: 100px;
-  height: 25px;
-}
 
- Link:hover{
-  color: black;
-  background-color: violet;
-}
 
-.navbar-Link{
-  justify-content: center;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  color: white;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-header.dark{
-background-color: black;
-}
-
-header.light{
-background-color: rgb(235, 193, 193);
-}
-
-header.dark h1{
-  color: white;
-}
 
 .dark h2{
   color: white;
 }
-body.dark .navbar-Link a {
-  color: white;
-}
 
-body.light .navbar-Link a {
-  color: black;
-}
+
 
 header.dark button{
   color: white;
@@ -110,6 +71,14 @@ body.dark .button:hover {
   border: 1px solid white;
 }
 
+.light .movie-card{
+  background: white;
+}
+
+.dark .movie-card{
+  background: #2b2b35;
+  color: white;
+}
 
 /* ------------------ INPUTS ------------------ */
 

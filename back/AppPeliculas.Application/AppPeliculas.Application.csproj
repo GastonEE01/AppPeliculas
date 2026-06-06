@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AppPeliculas.API\AppPeliculas.Domain\AppPeliculas.Domain.csproj" />
+    <ProjectReference Include="..\AppPeliculas.Domain\AppPeliculas.Domain.csproj" />
   </ItemGroup>
 
 </Project>

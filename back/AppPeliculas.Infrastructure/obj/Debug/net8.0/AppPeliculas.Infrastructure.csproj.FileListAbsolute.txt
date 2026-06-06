@@ -1,10 +1,11 @@
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Infrastructure.deps.json
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Infrastructure.runtimeconfig.json
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Infrastructure.dll
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Infrastructure.pdb
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Application.dll
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Domain.dll
-C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Domain.pdb
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Application.pdb
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Domain.pdb
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.AssemblyInfoInputs.cache
@@ -15,6 +16,5 @@ C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Inf
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.dll
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\refint\AppPeliculas.Infrastructure.dll
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.pdb
-C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\ref\AppPeliculas.Infrastructure.dll
-C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\bin\Debug\net8.0\AppPeliculas.Infrastructure.runtimeconfig.json
 C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\AppPeliculas.Infrastructure.genruntimeconfig.cache
+C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.Infrastructure\obj\Debug\net8.0\ref\AppPeliculas.Infrastructure.dll

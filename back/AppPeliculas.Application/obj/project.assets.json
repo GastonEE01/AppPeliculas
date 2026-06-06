@@ -1723,8 +1723,8 @@
     },
     "AppPeliculas.Domain/1.0.0": {
       "type": "project",
-      "path": "../AppPeliculas.API/AppPeliculas.Domain/AppPeliculas.Domain.csproj",
-      "msbuildProject": "../AppPeliculas.API/AppPeliculas.Domain/AppPeliculas.Domain.csproj"
+      "path": "../AppPeliculas.Domain/AppPeliculas.Domain.csproj",
+      "msbuildProject": "../AppPeliculas.Domain/AppPeliculas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1766,8 +1766,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Domain\\AppPeliculas.Domain.csproj": {
-              "projectPath": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\AppPeliculas.Domain\\AppPeliculas.Domain.csproj"
+            "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\AppPeliculas.Domain.csproj": {
+              "projectPath": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.Domain\\AppPeliculas.Domain.csproj"
             }
           }
         }
