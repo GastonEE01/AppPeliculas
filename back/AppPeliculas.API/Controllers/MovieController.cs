@@ -1,9 +1,11 @@
 ﻿using AppPeliculas.Application.UseCase;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppPeliculas.API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class MovieController : ControllerBase

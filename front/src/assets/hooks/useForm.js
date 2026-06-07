@@ -25,7 +25,7 @@ export const useForm = (initialState,onSuccess) => {
          try{
            const response = await apiFunction(formData);
            console.log("RESPONSE:", response);
-           console.log("EMAIL RESPONSE:", response.Email);
+           console.log("EMAIL RESPONSE:", response.email);
            onSuccess?.(response) 
            localStorage.setItem("email", response.email); // Guarda el token en localStorage
          }

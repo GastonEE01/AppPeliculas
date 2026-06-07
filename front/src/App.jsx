@@ -149,18 +149,26 @@ const handleSearch = (e) => {
         <Route path="/register" element={<RegisterPage /*movies={filteredMovies} addMovie= {addMovie} deleteMovie= {deleteMovie} addFavorite = {addFavorite} favorites= {favorites} handleSearch = {handleSearch} searchText = {searchText}*//>}></Route>
         
         <Route path="/movies" element={
+          token ? (
           <>
               <Header darkMode={darkMode} toggleTheme={toggleTheme} movies={movies} addMovie={addMovie} handleSearch={handleSearch} searchText={searchText}  user={user} />
               <MoviesPage movies={movies} addMovie= {addMovie} deleteMovie= {deleteMovie} addFavorite = {addFavorite} favorites= {favorites} handleSearch = {handleSearch} searchText = {searchText} addMovieRating = {addMovieRating}  message={message}/>
           </>
+          ) : (
+            <Navigate to="/login" replace />
+          )
         }/>
         
         <Route path="/favorites" element={
+          token ? (
           <>
           <Header darkMode={darkMode} toggleTheme={toggleTheme} movies={movies} addMovie={addMovie} handleSearch={handleSearch} searchText={searchText} user={user} />
           <FavoritesPage favorites = {favorites} removeFavorite = {removeFavorite}/>
           </>
-          } />
+          ) : (
+            <Navigate to="/login" replace />
+          )
+        } />
       </Routes>
     </BrowserRouter>
     </div>

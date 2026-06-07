@@ -16,6 +16,8 @@ export const LoginPage = () => {
       localStorage.setItem("token", response.token);
       console.log("TOKEN RESPONSE:", response.token);
       navigate("/movies");
+      window.location.reload();
+
     },
   );
 

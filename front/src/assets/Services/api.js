@@ -17,12 +17,15 @@ export const getMovieGetByID = async (userId) => {
 }
 
 export const getMovies = async () => {
+   const token = localStorage.getItem("token");
    const res = await fetch(`${API_URL}/api/movie`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`
     },
   });
+
   const data = await res.json();
   if(!res.ok){
     throw new Error(data.message);
@@ -32,10 +35,13 @@ export const getMovies = async () => {
 }
 
 export const AddFavorite = async (movieId, userId) => {
+  const token = localStorage.getItem("token");
   const res = await fetch(`${API_URL}/api/favoriteMovie`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`
+
     },
     body: JSON.stringify({
       movieId,

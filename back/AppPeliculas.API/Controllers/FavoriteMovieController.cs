@@ -7,6 +7,7 @@ using System.Security.Claims;
 
 namespace AppPeliculas.API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class FavoriteMovieController : ControllerBase
