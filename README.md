@@ -28,7 +28,7 @@ API Backend (Azure): https://apppeliculas-cqayf8bne0e9fmc2.brazilsouth-01.azurew
 * JWT Authentication
 * Arquitectura por capas / Use Cases
 
-### Base de Dato
+### Base de Datos
 * PostgreSQL
 * Supabase
 
