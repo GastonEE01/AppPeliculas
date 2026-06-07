@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\AppPeliculas.API\Properties\PublishProfiles\AppPeliculas - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\estev\Desktop\Unlam\React\MiPractica\appPeliculas\back\AppPeliculas.API\Properties\PublishProfiles\AppPeliculas - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
     <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>
