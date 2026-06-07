@@ -3,6 +3,7 @@ Aplicación web Fullstack desarrollada con React y .NET que permite a los usuari
 
 ## 🔗 Enlaces del Proyecto
 DEMO Frontend (Vercel): https://app-peliculas-three.vercel.app/
+
 API Backend (Azure): https://apppeliculas-cqayf8bne0e9fmc2.brazilsouth-01.azurewebsites.net/index.html
 
 ## Funcionalidades:
