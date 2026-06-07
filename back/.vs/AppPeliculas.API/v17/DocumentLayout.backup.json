@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|c:\\users\\estev\\desktop\\unlam\\react\\mipractica\\apppeliculas\\back\\apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848BAA53-2825-42B7-A2C7-8F210E7EFF6E}|AppPeliculas.API\\AppPeliculas.API.csproj|solutionrelative:apppeliculas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +47,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.Development.json",
+              "RelativeToolTip": "AppPeliculas.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T00:07:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AppPeliculas.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\estev\\Desktop\\Unlam\\React\\MiPractica\\appPeliculas\\back\\AppPeliculas.API\\appsettings.json",
+              "RelativeToolTip": "AppPeliculas.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T00:07:05.79Z",
+              "EditorCaption": ""
             }
           ]
         },

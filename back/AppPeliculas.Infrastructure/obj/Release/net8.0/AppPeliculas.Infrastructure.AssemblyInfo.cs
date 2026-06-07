@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppPeliculas.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ff2e04345bdc7cfa2ebf8806a4811263cc2e72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f683f707ecb79254aab575dad280783f773fc7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppPeliculas.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppPeliculas.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
